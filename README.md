@@ -1,2 +1,3 @@
 # IoT-module-for-BCS2
+## Integrated design of industrial IoT communication module for Shinko BCS2 device
  Design of industrial IoT communication module used for Shinko WCL-13A device. The module connects to WCL-13A device according to Modbus-RTU communication protocol. Web Server is embedded on the Module, configurated by Web browser of computer or phone, making device configuration simpler. The module has functions such as storing configuration parameters in memory, backing up device parameters to an SD card, setting parameters for WCL-13A device, Connecting to the Internet via LAN / WIFI, sending files to FTP Server via LAN / WIFI / 4G.
